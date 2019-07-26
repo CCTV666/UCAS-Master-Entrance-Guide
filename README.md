@@ -18,6 +18,6 @@
 笔记与资源放在Mathematics文件下。包括
 # :red_circle:专业备考
 笔记与资源放在CS863文件下。包括
-# :large_blue_circle:语备考
+# :large_blue_circle:英语备考
 笔记与资源放在English文件下。包括
 
